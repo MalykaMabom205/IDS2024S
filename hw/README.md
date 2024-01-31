@@ -1,1 +1,1 @@
-This folder contains my folder submissions 
+This folder contains my HW submissions 
