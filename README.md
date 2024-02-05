@@ -23,5 +23,5 @@ This directory contains all my quiz submissions, each of which is a folder prope
 
 [Exam](./exam):     
 This directory contains all my exam submissions, each of which is a folder properly named with the exam name or number, containing the exam submission.    
-> I haven't failed and would never fail
-> Thomas Edison  
+> I have not failed, I've just found 10,000 ways that won't work.   
+> Thomas Edison      
