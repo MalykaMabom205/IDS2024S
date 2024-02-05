@@ -23,10 +23,11 @@ This directory contains all my quiz submissions, each of which is a folder prope
 
 [Exam](./exam):     
 This directory contains all my exam submissions, each of which is a folder properly named with the exam name or number, containing the exam submission.    
-For any questions and troubleshooting, please contact:
+For any questions and troubleshooting, please contact:   
 
-Malyka Mabom
-mfm31662mavs.uta.edu 
+
+Malyka Mabom  
+mfm31662mavs.uta.edu   
 
 
 > I have not failed, I've just found 10,000 ways that won't work.   
