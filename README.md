@@ -14,8 +14,8 @@
 Photo:  ![IMG_9898](https://github.com/MalykaMabom205/IDS2024S/assets/91574091/bc6c316d-8b1a-46f5-befa-86c0bbdbce60)  
 
  
-This repository contains my homework, quizzes, and virtually every effort I have made for <course name>. 
-The structure of the project is the following:   
+This repository contains my homework, quizzes, and virtually every effort I have made for DATA 1301    
+The structure of the project is the following:     
 
 [Homework](./hw): 
 This directory contains all my homework submissions, each of which is a folder properly named with homework number, containing the homework submission.   
