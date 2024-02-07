@@ -1,6 +1,7 @@
 1. [Here is the README File I created](../README.md/)
 2. Local, Centralized, & Distributed
-3. a. git pull: This command fetches changes from a remote repository and merges them into the current branch. It is a combination of git fetch and git merge.
+3.
+a. git pull: This command fetches changes from a remote repository and merges them into the current branch. It is a combination of git fetch and git merge.
 
 b. git status: This command shows the current status of the working directory, indicating which files are modified, untracked, or staged for commit.
 
