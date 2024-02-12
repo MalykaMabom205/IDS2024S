@@ -18,5 +18,8 @@
 19. By using emphasis, using stars and underscores
 20. Git commmit
 21. Help add to another subfile.
+22. 8) goes into the terminal
+24. git log, git 
+       
    
   
