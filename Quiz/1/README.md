@@ -4,7 +4,7 @@
 5. Holds important imformation
 6. Copy directory
 7. List current/all working directories. ls -a lists current directory and everything stored inside.
-8. pwd is
+8. pwd, power working directory
 9. Repository: where users can write the data that is to be stored in staging area that coverts all data put in the ppreopsityory that can be shown in the directory where the data held in the staging is able to viewed by the public.
 10. VCS is a version control that stores data and keeps tracks of all updates made to thr current system thus is can be traced back if need be.
 11.  Speed, has a simple deign, strong support for linear developpment, fully distributed, and able to handle big projects
@@ -17,6 +17,6 @@
 18. By using emphasis, by using scar and underscores
 19. By using emphasis, using stars and underscores
 20. Git commmit
-21. 
+21. Help add to another subfile.
    
   
