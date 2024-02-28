@@ -27,16 +27,19 @@
 21. The three tasks within a CPU cycle are fetch, decode, and execute.
 22. Yes, a powerful computer with more CPU cycles can be slower if it is not efficiently utilizing those cycles due to other bottlenecks, such as memory access or I/O.
 23. Memory access is often a bottleneck in modern computers compared to CPU clocks.
-24. Dennard Scaling refers to the scaling of MOSFETs to maintain constant power density. MOSFET scaling involves reducing the size of transistors in integrated circuits. Moore's Law is a prediction by Gordon Moore that the number of transistors on a microchip would double approximately every two years
-25.(1)You would need 18,446,744,073,709,551,615 grains to fill the last (64th) square incrementally. Overall, you would need twice that amount minus one for all squares. This is an astronomical number, far beyond a pound of rice
-(2)You would need 9,223,372,036,854,775,808 grains to fill the last (64th) square geometrically.
-(3) With 2 trillion pounds of rice produced annually, it would take more than a million years to produce the required amount for the incremental placement on the chessboard.
-26. 
-27.(1) Conditional branching (if-else statements).      
-(2) Unconditional branching (loops and jumps).      
-(3) Memory storage and retrieval.         
-28. In a 2-dimensional plot, exponential behavior would show a constant rate of growth, leading to a straight line when plotted on a logarithmic scale. Power-law behavior would display a straight line on a logarithmic scale but with a different slope, indicating a slower rate of growth or decay.   
-   
+24. Dennard Scaling refers to the scaling of MOSFETs to maintain constant power density. MOSFET scaling involves reducing the size of transistors in integrated circuits. Moore's Law is a prediction by Gordon Moore that the number of transistors on a microchip would double approximately every two years  
+25. (1)  64 grains for the last square and about 0.297 pounds of rice to fill all chessboard squares    
+    (2)  A total of 2080 grains to fill all chessboard squares incrementally.  
+    (3)  0.297 pounds of rice to fill all chessboard squares incrementally.  
+26. (1) 9.223 × 10^18  
+    (2) 1.844 × 10^19  
+    (3) 2.634 × 10^15   
+27. (1) Conditional branching (if-else statements).        
+(2) Unconditional branching (loops and jumps).        
+(3) Memory storage and retrieval.   
+(4) 1317 years             
+29. In a 2-dimensional plot, exponential behavior would show a constant rate of growth, leading to a straight line when plotted on a logarithmic scale. Power-law behavior would display a straight line on a logarithmic scale but with a different slope, indicating a slower rate of growth or decay.     
+     
 
     
 
