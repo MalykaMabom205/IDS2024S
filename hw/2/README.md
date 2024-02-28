@@ -36,7 +36,7 @@
 (1) Conditional branching (if-else statements).
 (2) Unconditional branching (loops and jumps).
 (3) Memory storage and retrieval.
-28. In a 2-dimensional plot, exponential behavior would show a constant rate of growth, leading to a straight line when plotted on a logarithmic scale. Power-law behavior would display a straight line on a logarithmic scale but with a different slope, indicating a slower rate of growth or decay.
+  28. In a 2-dimensional plot, exponential behavior would show a constant rate of growth, leading to a straight line when plotted on a logarithmic scale. Power-law behavior would display a straight line on a logarithmic scale but with a different slope, indicating a slower rate of growth or decay.
    
 
     
