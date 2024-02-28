@@ -32,10 +32,9 @@
 (2)You would need 9,223,372,036,854,775,808 grains to fill the last (64th) square geometrically.
 (3) With 2 trillion pounds of rice produced annually, it would take more than a million years to produce the required amount for the incremental placement on the chessboard.
 26. 
-27.
-(1) Conditional branching (if-else statements).    
-(2) Unconditional branching (loops and jumps).    
-(3) Memory storage and retrieval.       
+27.(1) Conditional branching (if-else statements).      
+(2) Unconditional branching (loops and jumps).      
+(3) Memory storage and retrieval.         
 28. In a 2-dimensional plot, exponential behavior would show a constant rate of growth, leading to a straight line when plotted on a logarithmic scale. Power-law behavior would display a straight line on a logarithmic scale but with a different slope, indicating a slower rate of growth or decay.   
    
 
