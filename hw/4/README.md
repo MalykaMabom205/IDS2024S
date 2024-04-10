@@ -42,35 +42,35 @@ Therefore, if (B⇒A) is true, then (A+B)(A+AB) + AB(A+B) simplifies to C¯ + D.
 Idempotence
 Venn Diagram for OR
 
-![image](https://github.com/MalykaMabom205/IDS2024S/assets/91574091/ed14a05a-d8cb-4c90-8d1b-3abc10dac12f)
+![image](https://github.com/MalykaMabom205/IDS2024S/assets/91574091/ed14a05a-d8cb-4c90-8d1b-3abc10dac12f)    
 
  Venn diagram for AND
  
- ![image](https://github.com/MalykaMabom205/IDS2024S/assets/91574091/fcb91234-16d5-4876-94d2-603406a919c3)   
+ ![image](https://github.com/MalykaMabom205/IDS2024S/assets/91574091/fcb91234-16d5-4876-94d2-603406a919c3)     
 
 Commutativity:
 Venn diagram for OR (⋁) operation:
 
-![image](https://github.com/MalykaMabom205/IDS2024S/assets/91574091/003fdaa1-2c72-4d97-8a31-81f893186a42)  
+![image](https://github.com/MalykaMabom205/IDS2024S/assets/91574091/003fdaa1-2c72-4d97-8a31-81f893186a42)        
 
 Venn diagram for AND (⋀) operation:
 
-![image](https://github.com/MalykaMabom205/IDS2024S/assets/91574091/35a1e1d3-99c9-4c90-ae81-44230acab2ee)   
+![image](https://github.com/MalykaMabom205/IDS2024S/assets/91574091/35a1e1d3-99c9-4c90-ae81-44230acab2ee)         
 
 Associativity:
 
 Venn diagram for OR (⋁) operation:
 
-![image](https://github.com/MalykaMabom205/IDS2024S/assets/91574091/6501f567-ce53-4ded-9be2-ad3a136a0107)  
+![image](https://github.com/MalykaMabom205/IDS2024S/assets/91574091/6501f567-ce53-4ded-9be2-ad3a136a0107)     
 
 Venn diagram for AND (⋀) operation: 
 
-![image](https://github.com/MalykaMabom205/IDS2024S/assets/91574091/f154957d-4e2e-44d9-b8c1-b41f0bb10885)   
+![image](https://github.com/MalykaMabom205/IDS2024S/assets/91574091/f154957d-4e2e-44d9-b8c1-b41f0bb10885)        
 
 Distributivity:
 Venn diagram for distributivity:
 
-![image](https://github.com/MalykaMabom205/IDS2024S/assets/91574091/63fdf2e5-b618-4140-9307-aafc6030d1a6)  
+![image](https://github.com/MalykaMabom205/IDS2024S/assets/91574091/63fdf2e5-b618-4140-9307-aafc6030d1a6)     
 
 Duality: 
 A
@@ -193,13 +193,13 @@ Truth table for dual expression:
    
 6. --
 "B|C' > B|C"   
-![image](https://github.com/MalykaMabom205/IDS2024S/assets/91574091/87334094-ee0b-4c7a-84f5-1157a63e85cd)
+![image](https://github.com/MalykaMabom205/IDS2024S/assets/91574091/87334094-ee0b-4c7a-84f5-1157a63e85cd)     
 "A|BC' = A|BC
-![image](https://github.com/MalykaMabom205/IDS2024S/assets/91574091/a55b738a-a514-4807-9d48-aa77a29e656d)
+![image](https://github.com/MalykaMabom205/IDS2024S/assets/91574091/a55b738a-a514-4807-9d48-aa77a29e656d)      
 "B|C' > B|C" and "A|BC' = A|BC"
-![image](https://github.com/MalykaMabom205/IDS2024S/assets/91574091/2c5f487a-95c9-4352-bb93-a86c1b46eb06)
+![image](https://github.com/MalykaMabom205/IDS2024S/assets/91574091/2c5f487a-95c9-4352-bb93-a86c1b46eb06)      
 "AB|C'" and "AB|C."
-![image](https://github.com/MalykaMabom205/IDS2024S/assets/91574091/7927707d-c73f-4f99-8ee7-e5dde183c149)
+![image](https://github.com/MalykaMabom205/IDS2024S/assets/91574091/7927707d-c73f-4f99-8ee7-e5dde183c149)       
 
 7.
 The three fundamental desiderata of Probability Theory are:
