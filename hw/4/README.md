@@ -207,7 +207,7 @@ Truth table for dual expression:
 "AB|C'" and "AB|C."
 ![image](https://github.com/MalykaMabom205/IDS2024S/assets/91574091/7927707d-c73f-4f99-8ee7-e5dde183c149)             
 
-8.
+7.
 The three fundamental desiderata of Probability Theory are:
 Sample Space: Probability theory requires the definition of a sample space, which represents the set of all possible outcomes or events of interest in a given situation. The sample space provides a framework for identifying and describing the possible outcomes that we want to assign probabilities to.
 
