@@ -192,16 +192,22 @@ Truth table for dual expression:
        
    
 6. --
-"B|C' > B|C"   
-![image](https://github.com/MalykaMabom205/IDS2024S/assets/91574091/87334094-ee0b-4c7a-84f5-1157a63e85cd)     
-"A|BC' = A|BC
-![image](https://github.com/MalykaMabom205/IDS2024S/assets/91574091/a55b738a-a514-4807-9d48-aa77a29e656d)      
-"B|C' > B|C" and "A|BC' = A|BC"
-![image](https://github.com/MalykaMabom205/IDS2024S/assets/91574091/2c5f487a-95c9-4352-bb93-a86c1b46eb06)      
-"AB|C'" and "AB|C."
-![image](https://github.com/MalykaMabom205/IDS2024S/assets/91574091/7927707d-c73f-4f99-8ee7-e5dde183c149)       
+"B|C' > B|C"
+ 
+![image](https://github.com/MalykaMabom205/IDS2024S/assets/91574091/87334094-ee0b-4c7a-84f5-1157a63e85cd)    
 
-7.
+
+"A|BC' = A|BC
+![image](https://github.com/MalykaMabom205/IDS2024S/assets/91574091/a55b738a-a514-4807-9d48-aa77a29e656d)          
+
+"B|C' > B|C" and "A|BC' = A|BC"
+![image](https://github.com/MalykaMabom205/IDS2024S/assets/91574091/2c5f487a-95c9-4352-bb93-a86c1b46eb06)         
+
+
+"AB|C'" and "AB|C."
+![image](https://github.com/MalykaMabom205/IDS2024S/assets/91574091/7927707d-c73f-4f99-8ee7-e5dde183c149)             
+
+8.
 The three fundamental desiderata of Probability Theory are:
 Sample Space: Probability theory requires the definition of a sample space, which represents the set of all possible outcomes or events of interest in a given situation. The sample space provides a framework for identifying and describing the possible outcomes that we want to assign probabilities to.
 
