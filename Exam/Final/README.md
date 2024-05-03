@@ -1,6 +1,6 @@
 1. With model validation the model displays the hypothesis, (like Aligning with it). Whereas in calibration the model just shows variable and data
 2. Color, postion, shape, size, line widith, & line type.
-3. The color pattern with the red.
+3. The color pattern with the purple.
 4. (1) qualitive pattern
    (2) Sequential 
    (3) Divereging 
