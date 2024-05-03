@@ -13,7 +13,7 @@
 10. They're confusing to read and intrepret hence why Data Scientists tend to stay away from using 3d plots.
 11. Color is an quantitative/ordered asesthic.
 12. The black diagram. 
-13. The first set of colors with the red.
+13. The first set of colors with the pink.
 14. (1) San Diego
     (2) Chicago
     (3) San Diego
