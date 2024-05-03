@@ -24,5 +24,6 @@
     (d) Accent color scale
 16. Accent color scale.
 17. There is no color scale applied distingush the variables of data.
-18. https://mavsuta-my.sharepoint.com/:x:/r/personal/mfm3166_mavs_uta_edu/Documents/Book%205.xlsx?d=w3fe82d19179745d0a12cb796f8700e05&csf=1&web=1&e=0PmaV1&nav=MTVfezAwMDAwMDAwLTAwMDEtMDAwMC0wMDAwLTAwMDAwMDAwMDAwMH0 
+18. https://mavsuta-my.sharepoint.com/:x:/r/personal/mfm3166_mavs_uta_edu/Documents/Book%205.xlsx?d=w3fe82d19179745d0a12cb796f8700e05&csf=1&web=1&e=0PmaV1&nav=MTVfezAwMDAwMDAwLTAwMDEtMDAwMC0wMDAwLTAwMDAwMDAwMDAwMH0
+ https://mavsuta-my.sharepoint.com/:x:/r/personal/mfm3166_mavs_uta_edu/Documents/Book%205.xlsx?d=w3fe82d19179745d0a12cb796f8700e05&csf=1&web=1&e=aRIKSn   
 19. The tempurature will slowly rise. 
