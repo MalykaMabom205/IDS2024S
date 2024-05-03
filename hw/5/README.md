@@ -46,10 +46,10 @@ CIE LAB Color Scale:
 The CIE LAB color scale is designed to approximate human perception of color. It separates color information into three components: L (lightness), a (green-red axis), and b (blue-yellow axis). The CIE LAB color space is often used in industries such as printing, textiles, and color science, where accurate color matching and consistency are crucial. It is also employed in color difference calculations and color management systems.
 12. inaccurate representation of the data, mislabeling of axes or data points, improper formatting or scaling
 13. The first set of colors, with the red
-14. 
-16.
-17. ![image](https://github.com/MalykaMabom205/IDS2024S/assets/91574091/d5f14eac-defe-4514-afb9-a997f61ebcc3)  
-![image](https://github.com/MalykaMabom205/IDS2024S/assets/91574091/7ef912b4-33f4-4bee-a335-18a28911e458)  
+14.      
+16.   
+17. ![image](https://github.com/MalykaMabom205/IDS2024S/assets/91574091/d5f14eac-defe-4514-afb9-a997f61ebcc3)     
+![image](https://github.com/MalykaMabom205/IDS2024S/assets/91574091/7ef912b4-33f4-4bee-a335-18a28911e458)     
 
 
 18. Classical Probability: This school of thought is rooted in the works of mathematicians such as Jacob Bernoulli and Pierre-Simon Laplace. It deals with probability in the context of equally likely outcomes in finite sample spaces. Classical probability focuses on concepts like permutations, combinations, and the principle of indifference.
